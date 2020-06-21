@@ -4,7 +4,7 @@ Hi!
 
 1. A lot of the coding was done in Colab, hence the Python Notebooks. Some stuff is in other repos, and are therefore linked.
 
-2. A lot of the code is not cleaned up.
+2. A lot of the code is not cleaned up, and there is some unused code.
 
 3. Some data is stored in my personal Google Drive account (for example pre-trained models amongst other things). 
    
