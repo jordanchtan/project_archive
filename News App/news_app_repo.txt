@@ -1,0 +1,8 @@
+Code for the service:
+
+https://github.com/jordanchtan/indiv-proj-serv
+
+
+Code for the app:
+
+https://github.com/jordanchtan/indiv-proj-app
